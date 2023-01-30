@@ -77,21 +77,22 @@ little boy blue and the man in the moon.
 ### Lists
 To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
 #### Ordered lists
+Example 1
 1. First item
 2. Second item
 3. Third item
 4. Fourth item
-
+Example 2
 1. First item
 1. Second item
 1. Third item
 1. Fourth item
-
+Example 3
 1. First item
 8. Second item
 3. Third item
 5. Fourth item
-
+Example 4
 1. First item
 2. Second item
 3. Third item
@@ -104,22 +105,23 @@ CommonMark and a few other lightweight markup languages let you use a parenthesi
 
 
 #### Unordered lists
-To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+To create an unordered list, add dashes (-), asterisks (*)*, or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+Example 1
 - First item
 - Second item
 - Third item
 - Fourth item
-
+Example 2
 * First item
 * Second item
 * Third item
 * Fourth item
-
+Example 3
 + First item
 + Second item
 + Third item
 + Fourth item
-
+Example 4
 - First item
 - Second item
 - Third item

@@ -52,12 +52,27 @@ To create a blockquote, add a greater than symbol (>) in front of a paragraph.
 >To be quick quick quick
 
 #### For ***nested block*** quotes, Add two greater than symbols (>>) in front of the paragraph you want to nest.
-
 >Jack and Jill
 >Went up a hill
 >>To fetch a pail
 >of water
 
+#### Blockquotes +
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
+#### Best Practices
+For compatibility, put blank lines before and after blockquotes.
+
+The cat's in the cradle 
+
+> and the silver spoon
+
+little boy blue and the man in the moon.
 
 ### This is how a ***link*** is created in markdown
 [Barbie Life in the Dreamhouse-Season 1 Episode 1](https://www.youtube.com/watch?v=nTDirUh_MHA)

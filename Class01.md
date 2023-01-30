@@ -144,6 +144,25 @@ Example 4
     - Indented item
 - Fourth item
 
+### Lists +
+To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples.
+
+Paragraphs
+
+Blockquotes
+
+Code Blocks
+
+Lists
+
+### Code
+
+Escaping Backticks
+
+Code Blocks
+
+Horizontal Rules
+
 
 ### This is how a ***link*** is created in markdown
 [Barbie Life in the Dreamhouse-Season 1 Episode 1](https://www.youtube.com/watch?v=nTDirUh_MHA)

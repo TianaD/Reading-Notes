@@ -77,22 +77,29 @@ little boy blue and the man in the moon.
 ### Lists
 To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
 #### Ordered lists
-Example 1
+Example 1  
+
 1. First item
 2. Second item
 3. Third item
 4. Fourth item
-Example 2
+
+Example 2  
+
 1. First item
 1. Second item
 1. Third item
 1. Fourth item
-Example 3
+
+Example 3  
+
 1. First item
 8. Second item
 3. Third item
-5. Fourth item
-Example 4
+5. Fourth item  
+
+Example 4  
+
 1. First item
 2. Second item
 3. Third item

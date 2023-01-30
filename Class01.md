@@ -113,22 +113,30 @@ CommonMark and a few other lightweight markup languages let you use a parenthesi
 
 #### Unordered lists
 To create an unordered list, add dashes (-), asterisks (*)*, or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+
 Example 1
+
 - First item
 - Second item
 - Third item
 - Fourth item
+
 Example 2
+
 * First item
 * Second item
 * Third item
 * Fourth item
+
 Example 3
+
 + First item
 + Second item
 + Third item
 + Fourth item
+
 Example 4
+
 - First item
 - Second item
 - Third item

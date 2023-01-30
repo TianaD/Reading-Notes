@@ -31,10 +31,23 @@ Happy Day You Say
 Two asterisks (**) **surrounding** text with no spaces.
 
 #### Italic
+One asterisks (*) *surrounding* text with no spaces.
 
+#### Bold and Italics
+Three asterisks (***) ***surrounding*** text with no spaces.
 
+### Blockquotes
+To create a blockquote, add a greater than symbol (>) in front of a paragraph.
+>This is living now.
 
-
+For blockquotes with mulitiple paragraphs, add a greater than (>) on the blank lines between the paragraphs.
+>Miss Polly had a Dolly
+>
+>Who was sick sick sick
+>
+>So she called for a doctor
+>
+>To be quick quick quick
 
 #### This is how a ***link*** is created in markdown
 [Barbie Life in the Dreamhouse-Season 1 Episode 1](https://www.youtube.com/watch?v=nTDirUh_MHA)

@@ -9,7 +9,11 @@ No syntax is needed.
 Use a blank line to separate one or more lines of text.
 
 
-#### Line breaks are done.
+#### Line Breaks
 
-This is how a  link is created in markdown
+To create a line break or new line (<br>), end a line with two or more spaces, and then type return.
+
+
+
+#### This is how a ***link*** is created in markdown
 [Barbie Life in the Dreamhouse- Season 1 Episode 1](https://www.youtube.com/watch?v=nTDirUh_MHA)

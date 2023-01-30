@@ -11,8 +11,10 @@ Use a blank line to separate one or more lines of text.
 
 #### Line Breaks
 
-To create a line break or new line (<br>), end a line with two or more spaces, and then type return.
+To create a line break or new line, end a line with two or more spaces, and then type return.
 
+Happy Day  
+Happy Day You Say
 
 
 #### This is how a ***link*** is created in markdown

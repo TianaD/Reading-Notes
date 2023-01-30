@@ -40,7 +40,7 @@ Three asterisks (***) ***surrounding*** text with no spaces.
 To create a blockquote, add a greater than symbol (>) in front of a paragraph.
 >This is living now.
 
-For blockquotes with mulitiple paragraphs, add a greater than (>) on the blank lines between the paragraphs.
+#### For blockquotes with ***multiple paragraphs***, add a greater than (>) on the blank lines between the paragraphs.
 >Miss Polly had a Dolly
 >
 >Who was sick sick sick
@@ -49,5 +49,12 @@ For blockquotes with mulitiple paragraphs, add a greater than (>) on the blank l
 >
 >To be quick quick quick
 
-#### This is how a ***link*** is created in markdown
+#### For ***nested block*** quotes, Add two greater than symbols (>>) in front of the paragraph you want to nest.
+>Jack and Jill
+>Went up a hill
+>>To fetch a pail
+>of water
+
+
+### This is how a ***link*** is created in markdown
 [Barbie Life in the Dreamhouse-Season 1 Episode 1](https://www.youtube.com/watch?v=nTDirUh_MHA)

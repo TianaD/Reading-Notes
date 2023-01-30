@@ -147,13 +147,13 @@ Example 4
 ### Lists +
 To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples.
 
-Paragraphs
+#### Paragraphs
 
-Blockquotes
+#### Blockquotes
 
-Code Blocks
+#### Code Blocks
 
-Lists
+#### Lists
 
 ### Code
 To denote a word or phrase as code, enclose it in backticks (`)`.

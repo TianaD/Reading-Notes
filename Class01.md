@@ -74,5 +74,59 @@ The cat's in the cradle
 
 little boy blue and the man in the moon.
 
+### Lists
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+#### Ordered lists
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+1. First item
+1. Second item
+1. Third item
+1. Fourth item
+
+1. First item
+8. Second item
+3. Third item
+5. Fourth item
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+##### Best Practices
+CommonMark and a few other lightweight markup languages let you use a parenthesis ()) as a delimiter (e.g., 1) First item), but not all Markdown applications support this, so it isn’t a great option from a compatibility perspective. For compatibility, use periods only.
+
+
+#### Unordered lists
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+- First item
+- Second item
+- Third item
+- Fourth item
+
+* First item
+* Second item
+* Third item
+* Fourth item
+
++ First item
++ Second item
++ Third item
++ Fourth item
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+
+
 ### This is how a ***link*** is created in markdown
 [Barbie Life in the Dreamhouse-Season 1 Episode 1](https://www.youtube.com/watch?v=nTDirUh_MHA)

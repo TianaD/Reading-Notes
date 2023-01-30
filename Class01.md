@@ -2,7 +2,7 @@
 
 ## We learned about Heading from [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
-Ensure there is a space between 
+Ensure there is a space between the hash (#) and the text.
 
 # Heading level 1
 ## Heading level 2

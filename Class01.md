@@ -156,13 +156,62 @@ Code Blocks
 Lists
 
 ### Code
+To denote a word or phrase as code, enclose it in backticks (`)`.
 
-Escaping Backticks
+At the command prompt, type `house`.
 
-Code Blocks
+#### Escaping Backticks
+If the word or phrase you want to denote as code includes one or more backticks, you can escape it by enclosing the word or phrase in double backticks (``)``. 
 
-Horizontal Rules
+``Use `code` in your Markdown file.``
 
+It's like having quotes inside of a quote (i.e. "Mr. Peter said, 'Go away!'").
+
+
+#### Code Blocks
+
+To create code blocks, indent every line of the block by at least four spaces or one tab.
+
+    <html>
+      <head>
+      </head>
+    </html>
+
+### Horizontal Rules
+
+To create a horizontal rule, use three or more asterisks (***)***, dashes (---), or underscores (___)___ on a line by themselves.
+
+***
+
+---
+
+_________________
+
+#### Best Practices
+
+For compatibility, put blank lines before and after horizontal rules.
+
+Try to put a blank line before...
+
+---
+
+...and after a horizontal rule.
 
 ### This is how a ***link*** is created in markdown
 [Barbie Life in the Dreamhouse-Season 1 Episode 1](https://www.youtube.com/watch?v=nTDirUh_MHA)
+
+#### Adding Titles
+
+#### URLs and Email Addresses
+
+#### Formatting Links
+
+#### Reference-style Links
+
+#### Formatting the First Part of the Link
+
+#### Formatting the Second Part of the Link
+
+#### An Example Putting the Parts Together
+
+#### Link Best Practices

@@ -39,6 +39,8 @@ Three asterisks (***) ***surrounding*** text with no spaces.
 ### Blockquotes
 To create a blockquote, add a greater than symbol (>) in front of a paragraph.
 >This is living now.
+>This is living now. 
+>This is living now.
 
 #### For blockquotes with ***multiple paragraphs***, add a greater than (>) on the blank lines between the paragraphs.
 >Miss Polly had a Dolly
@@ -50,6 +52,7 @@ To create a blockquote, add a greater than symbol (>) in front of a paragraph.
 >To be quick quick quick
 
 #### For ***nested block*** quotes, Add two greater than symbols (>>) in front of the paragraph you want to nest.
+
 >Jack and Jill
 >Went up a hill
 >>To fetch a pail

@@ -5,7 +5,7 @@ Notes for Code School
 
 Today we created GitHub, Slack, and Canvas Accounts
 
-## Class 02
+## [Class 02](/Reading-Notes/Class02)
 
 ## Class 03
 

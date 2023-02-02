@@ -1,15 +1,7 @@
 # Reading-Notes
 Notes for Code School
 
-## [Class 01](/Reading-Notes/Class01)
+## [Code 102 Reading Notes](/Reading-Notes/102)
 
-Today we created GitHub, Slack, and Canvas Accounts
-
-## [Class 02](/Reading-Notes/Class02)
-
-## [Class 03](/Reading-Notes/Class03)
-
-## Class 04
-
-
+## [Code 201 Reading Notes](/Reading-Notes/201)
 

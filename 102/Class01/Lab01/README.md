@@ -1,3 +1,5 @@
+### [Lab01](/Reading-Notes/Class01/Lab01)
+
 # **Growth Mindset**
 ## Preface lol :D  
 

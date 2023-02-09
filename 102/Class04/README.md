@@ -58,17 +58,41 @@ There are [free wireframe tools](https://careerfoundry.com/en/blog/ux-design/fre
 
 ## 6 Steps to make a wireframe
 
-### Do your research
+### 1. Do your research
 
 "Remember: [UX design is a process](https://careerfoundry.com/en/blog/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux/), and wireframing isn’t the first step in this process. Before you even think about picking up a pen and paper, you need to have covered the first two steps; namely understanding who your audience is by way of user research, detailing requirements, creating user personas and defining use cases, and complementing this with further competitor and industry research. What does that mean? That means carrying out analysis of similar product lines to your own, digging into [prevailing UX trends](https://www.invisionapp.com/inside-design/ux-trends-for-2019/) and [best practises](https://careerfoundry.com/en/blog/ux-design/ux-best-practices/), and, of course, reviewing your own internal design guidelines."
 
-### Prepare your research for quick reference
+### 2. Prepare your research for quick reference
 
 "If you’re a mere mortal, you might struggle to both retain and recall all of that, so I recommend scribbling a cheatsheet with your business and user goals (your requirements), your personas, use cases, and perhaps some reminders of the coolest features you stumbled across in your competitor research. A few choice quotes from your audience might also help focus your attention on the user’s experience, which is—never forget—what you’re designing!"
 
-### Make sure you have your **user flow** mapped out
+### 3. Make sure you have your **user flow** mapped out
 
-### Draft, don’t draw. Sketch, don’t illustrate
+Good information architecture is key! Know where the users are coming from and where I want them to end up. 
+
+"If you’re already well-acquainted with UX vocabulary, your internal voice will be alternately screaming 'user flows' and 'information architecture.'"
+
+Good information architecture makes it easy for users to use. They are less likely to ask questions to customer service of how to use the software. Make it easy for them with good information architecture.
+
+### 4. Draft, don’t draw. Sketch, don’t illustrate
+
+This is the fourth step. "Look before you leap" in UX.
+
+"There’s nothing worse than a blank piece of paper, so you need to start getting your ideas down pronto—that’s the imperative for step three. Don’t think about aesthetics, don’t think about colors—the UI designer can deal with that. And if you’re the only designer at your fledgling startup… well, just do it later."
+
+"A good, thick marker pen (a Sharpie, as our friends in the US call them) is a handy tool for this stage of wireframing. Why? Because it prevents you from drowning yourself in detail. You’ll focus on delineating the functional blocks that form the skeleton of your design."
+
+"...pose yourself the following three questions while you’re sketching:
+
+- How can you organise the content to support your users’ goals?
+
+- Which information should be most prominent? Where should your main message go? What should the user see first when arriving at the page?
+
+- What will the user expect to see on certain areas of the page?
+
+- Which buttons or touch points does the user need to complete the desired actions?"
+
+"Once you have a few variations of your first screens, you might want to do a bit of collaborative wireframing with a fellow designer or product manager. What’s that mean? Simple. Lift your wireframes off the paper and onto a whiteboard, and play around with them. Ask yourself and one another; 'Are we creating something usable that meets our audience’s needs?'"
 
 ### Add some detail and get testing
 
@@ -77,11 +101,13 @@ There are [free wireframe tools](https://careerfoundry.com/en/blog/ux-design/fre
 
 ## How to make your wireframe good: Three key principles
 
-### Clarity
+&nbsp;
 
-### Confidence
+### 1. Clarity
 
-### Simplicity is key
+### 2. Confidence
+
+### 3. Simplicity is key
 
 
 

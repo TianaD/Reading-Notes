@@ -113,3 +113,26 @@ In CSS, consider styling a list with li elements representing different types of
 ## **Semantics in HTML**
 
 In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+&nbsp;
+
+# [**Getting Started with HTML**](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+
+**What is HTML?**
+
+> HTML (HyperText Markup Language) is a markup language that tells web browsers how to structure the web pages you visit. It can be as complicated or as simple as the web developer wants it to be. HTML consists of a series of elements, which you use to enclose, wrap, or mark up different parts of content to make it appear or act in a certain way. The enclosing tags can make content into a hyperlink to connect to another page, italicize words, and so on. For example, consider the following line of text:
+>
+>>My cat is very grumpy
+
+&nbsp;
+
+**HTML Attributes**
+
+>All HTML elements can have attributes
+>
+>Attributes provide additional information about elements
+>
+>Attributes are always specified in the start tag
+>
+>Attributes usually come in name/value pairs like: name="value"
+

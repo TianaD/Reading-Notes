@@ -16,7 +16,7 @@
 
         Of the six heading levels available, you should aim to use no more than three per page, unless you feel it is necessary.
 
-3. [What are some uses for the [sup]<sup> and [sub]<sub> elements?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#superscript_and_subscript)
+3. [What are some uses for the <sup>sup</sup> and <sub>sub</sub> elements?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#superscript_and_subscript)
 
 - dates
 
@@ -28,9 +28,11 @@
 
 - chemical formulae/symbols (e.g., to show charges of ions, the formula for water is H<sub>2</sub>O.)
 
--  mathematical functions (e.g., to denote an exponent)
+-  mathematical functions (e.g., to denote an exponent, x to the second power: x<sup>2</sup>)
 
 4. [When using the <abbr> element, what attribute must be added to provide the full expansion of the term?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#abbreviations)
+
+Advanced text helps make site more accessible.
 
 >Another fairly common element you'll meet when looking around the Web is <abbr> — this is used to wrap around an abbreviation or acronym. When including either, provide a full expansion of the term in plain text on first use, along with the <abbr> to mark up the abbreviation. This provides a hint to user agents on how to announce/display the content while informing all users what the abbreviation means.
 >
@@ -54,3 +56,26 @@
 >>We use HTML, Hypertext Markup Language, to structure our web documents.
 >>
 >>I think Rev. Green did it in the kitchen with the chainsaw.
+
+&nbsp;
+
+&nbsp;
+
+# [**How CSS is Structured**](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
+
+1. What are ways we can apply CSS to our HTML?
+
+2. Why should we avoid using inline styles?
+
+3. Review the block of code below and answer the following questions:
+
+    1. What is representing the selector?
+
+    2. Which components are the CSS declarations?
+
+    3. Which components are considered properties?
+
+
+Events
+
+click - similar to javascript. used for buttons and plain text.

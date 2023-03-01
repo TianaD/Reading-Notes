@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Object-oriented JavaScript example</title>
+  </head>
+
+  <body>
+    <p>This example requires you to enter commands in your browser's JavaScript console (see <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools">What are browser developer tools</a> for more information).</p>
+    
+    <script>
+// const person = {}; //Javascript object with a name "person"
+
+const person = {
+  name: ["Peter", "Rabbit"],
+  age: 17,
+  bio: function () {
+    console.log(`${this.name[0]} ${this.name[1]} is ${this.age} years old.`);
+  },
+  introduceSelf: function () {
+    console.log(`Hi! I'm ${this.name[0]}.`);
+  },
+};
+
+// The syntax always follows this pattern:
+const objectName = {
+  member1Name: member1Value,
+  member2Name: member2Value,
+  member3Name: member3Value,
+};
+
+// When the object's members are functions there's a simpler syntax. Instead of bio: function () we can write bio(). Like this:
+const person = {
+  name: ["Peter", "Rabbit"],
+  age: 32,
+  bio() {
+    console.log(`${this.name[0]} ${this.name[1]} is ${this.age} years old.`);
+  },
+  introduceSelf() {
+    console.log(`Hi! I'm ${this.name[0]}.`);
+  },
+};
+
+//An object like this is referred to as an object literal — we've literally written out the object contents as we've come to create it. This is different compared to objects instantiated from classes, which we'll look at later on.
+// Dot notation
+person.age;
+person.bio();
+
+// Objects as object properties
+// An object property can itself be an object. For example, try changing the name member from
+const person = {
+  name: ["Peter", "Rabbit"],
+};
+
+// to
+
+const person = {
+  name: {
+    first: "Peter",
+    last: "Rabbit",
+  },
+  // …
+};
+
+// To access these items you just need to chain the extra step onto the end with another dot. Try these in the JS console:
+// person.name.first;
+// person.name.last;
+
+// If you do this, you'll also need to go through your method code and change any instances of
+
+name[0];
+name[1];
+
+// to
+
+name.first;
+name.last;
+
+// ========================================Dot Notation===================================================================================================
+
+// In the example below, the logProperty() function can use 
+// person[propertyName] to retrieve the value of the property 
+// named in propertyName.
+
+const person = {
+  name: ["Peter", "Rabbit"],
+  age: 32,
+};
+
+function logProperty(propertyName) {
+  console.log(person[propertyName]);
+}
+
+logProperty("name");
+// ["Peter", "Rabbit"]
+logProperty("age");
+// 32
+
+// ========================================What is "this"?===================================================================================================
+//example of this
+introduceSelf() {
+  console.log(`Hi! I'm ${this.name[0]}.`);
+}
+
+//illustration
+
+const person1 = {
+  name: "Chris",
+  introduceSelf() {
+    console.log(`Hi! I'm ${this.name}.`);
+  },
+};
+
+const person2 = {
+  name: "Deepti",
+  introduceSelf() {
+    console.log(`Hi! I'm ${this.name}.`);
+  },
+};
+
+
+// ========================================Introducing constructors===================================================================================================
+// The first version of this is just a function:
+
+function createPerson(name) {
+  const obj = {};
+  obj.name = name;
+  obj.introduceSelf = function () {
+    console.log(`Hi! I'm ${this.name}.`);
+  };
+  return obj;
+}
+
+// This function creates and returns a new object each time we call it. 
+// The object will have two members:
+
+// a property name
+// a method introduceSelf().
+
+//using definition create additional objects:
+
+const salva = createPerson("Salva");
+salva.name;
+salva.introduceSelf();
+
+const frankie = createPerson("Frankie");
+frankie.name;
+frankie.introduceSelf();
+
+//shortened
+
+function Person(name) {
+  this.name = name;
+  this.introduceSelf = function () {
+    console.log(`Hi! I'm ${this.name}.`);
+  };
+}
+
+// To call Person() as a constructor, we use new:
+
+const salva = new Person("Salva");
+salva.name;
+salva.introduceSelf();
+
+const frankie = new Person("Frankie");
+frankie.name;
+frankie.introduceSelf();
+
+
+
+
+    </script>
+  </body>
+
+</html>

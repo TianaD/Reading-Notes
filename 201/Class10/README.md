@@ -28,13 +28,17 @@
 
 ### [Syntax errors round two](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong#syntax_errors_round_two)
 
+"This error generally means that you have missed a semicolon at the end of one of your lines of code, but it can sometimes be more cryptic."
+
 
 ### [Syntax errors round three](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong#syntax_errors_round_three)
 
 
-
 ### [**A logic error**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong#a_logic_error)
 
+    >At this point, the game should play through fine, however after playing through a few times you'll undoubtedly notice that the game always chooses 1 as the "random" number you've got to guess. Definitely not quite how we want the game to play out!
+
+    >There's definitely a problem in the game logic somewhere — the game is not returning an error; it just isn't playing right.
 
 ### [**Working through the logic**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong#working_through_the_logic)
 

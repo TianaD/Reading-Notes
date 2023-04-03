@@ -12,3 +12,5 @@ Notes for Code School
 ## [Code 301 - Intermediate Software Development](/Reading-Notes/301)
 
 ## [Code 401 - Advanced Software Development](/Reading-Notes/401)
+
+[Psychological Safety](./201/Class14/Psychological%20Safety.md)

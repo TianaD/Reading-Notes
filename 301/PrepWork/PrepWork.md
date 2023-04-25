@@ -38,7 +38,7 @@ In React, an element is just a native JavaScript object and eventually will beco
 
 *down*
 
-![It is common in a React app to have one main component and the rest of the app nested along the way -- a component tree.](./ReactPrepWorkScreenshot.jpg)
+![It is common in a React app to have one main component and the rest of the app nested along the way -- a component tree.](ReactPrepWork-HowDataFlows.jpg)
 
 ![Both the direction of the data flow (left and right) and the recipients can also be controlled. Since these are functions, we pass the data as parameters or *props*.](./ReactPrepWork-DataFlowDirection.jpg)
 

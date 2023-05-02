@@ -18,6 +18,8 @@ APIs - machines can use the web like humans do. "Computers can use protocols to 
 
 This is called a "redirect."
 
+We are sending human readable data, not set up as a one to many relationship.
+
 3. What is the HTTP protocol that Fielding and his friends created?
 
 It tells the browser what prototype to use. It is capable of describing the location of something anywhere in a world. "The whole world wide web is built on an architectural style called “REST”. REST provides a definition of a “resource”, which is what those things point to."
@@ -54,4 +56,6 @@ Note:
 
 "HTTP is actually a general purpose protocol for applying verbs to nouns."
 
+[Geocoding API](https://locationiq.com/) - API retrieved 
 
+[Weather Bit API](https://www.weatherbit.io/)

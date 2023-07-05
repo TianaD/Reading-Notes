@@ -202,6 +202,8 @@ When you are finished with all of the lessons, create a new entry in your readin
 
 *Submit a link to your rendered notes page.*
 
+Relational databases organize data into tables. Each table has specified rows and columns from which users can pull data. The ability to join tables are also included since data is usually stored between multiple tables.
+
 ![Exercise1](./assets/Exercise1.png)
 
 ![Exercise2](./assets/Exercise2.png)

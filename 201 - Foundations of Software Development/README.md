@@ -1,31 +1,31 @@
 # Table of Contents
 
-## [Class01](/Reading-Notes/201/Class01)
+## [Class01](./Class01/README.md)
 
-## [Class02](/Reading-Notes/201/Class02)
+## [Class02](./Class02/README.md)
 
-## [Class03](/Reading-Notes/201/Class03)
+## [Class03](./Class03/README.md)
 
-## [Class04](/Reading-Notes/201/Class04)
+## [Class04](./Class04/README.md)
 
-## [Class05](/Reading-Notes/201/Class05)
+## [Class05](./Class05/README.md)
 
-## [Class06](/Reading-Notes/201/Class06)
+## [Class06](./Class06/README.md)
 
-## [Class07](/Reading-Notes/201/Class07)
+## [Class07](./Class07/README.md)
 
-## [Class08](/Reading-Notes/201/Class08)
+## [Class08](./Class08/README.md)
 
-## [Class09](/Reading-Notes/201/Class09)
+## [Class09](./Class09/README.md)
 
-## [Class10](/Reading-Notes/201/Class10)
+## [Class10](./Class10/README.md)
 
-## [Class11](/Reading-Notes/201/Class11)
+## [Class11](./Class11/README.md)
 
-## [Class12](/Reading-Notes/201/Class12)
+## [Class12](./Class12/README.md)
 
-## [Class13](/Reading-Notes/201/Class13)
+## [Class13](./Class13/README.md)
 
-## [Class14](/Reading-Notes/201/Class14)
+## [Class14](./Class14/README.md)
 
-## [Class15](/Reading-Notes/201/Class15)
+## [Class15](./Class15/README.md)

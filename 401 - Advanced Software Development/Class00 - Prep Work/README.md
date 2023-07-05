@@ -201,3 +201,41 @@ For each of the tutorial sections:
 When you are finished with all of the lessons, create a new entry in your reading notes repository summarizing your understanding of relational databases and SQL. Include all of your screen shots in this page.
 
 *Submit a link to your rendered notes page.*
+
+![Exercise1](./assets/Exercise1.png)
+
+![Exercise2](./assets/Exercise2.png)
+
+![Exercise3](./assets/Exercise3.png)
+
+![Exercise4](./assets/Exercise4.png)
+
+![Exercise5](./assets/Exercise5.png)
+
+![Exercise6](./assets/Exercise6.png)
+
+![Exercise7](./assets/Exercise7.png)
+
+![Exercise8](./assets/Exercise8.png)
+
+![Exercise9](./assets/Exercise9.png)
+
+![Exercise10](./assets/Exercise10.png)
+
+![Exercise11](./assets/Exercise11.png)
+
+![Exercise12](./assets/Exercise12.png)
+
+![Exercise13](./assets/Exercise13.png)
+
+![Exercise14](./assets/Exercise14.png)
+
+![Exercise15](./assets/Exercise15.png)
+
+![Exercise16](./assets/Exercise16.png)
+
+![Exercise17](./assets/Exercise17.png)
+
+![Exercise18](./assets/Exercise18.png)
+
+![TutorialCompletion_SQL](./assets/TutorialCompletion_SQL.png)

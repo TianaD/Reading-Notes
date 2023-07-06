@@ -47,4 +47,32 @@
 
 &nbsp;
 
+&nbsp;
+
+
+
+## [Alain de Botton on Redefining Success Summary from ChatGPT](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
+
+**Architectural Analogy:**
+
+*The speaker, Alain de Botton, compares the modern society’s obsession with success and achievement to a skyscraper that dominates the skyline and casts a shadow over the rest of the buildings. He argues that this skyscraper represents a narrow and rigid definition of success that is based on material wealth, fame and power, and that it creates anxiety and envy for those who are not at the top. He suggests that we should rethink our idea of success and build a more diverse and humane cityscape, where different kinds of achievements are valued and respected, such as kindness, creativity, wisdom and service. He also urges us to be more compassionate towards ourselves and others when we fail or struggle, and to recognize that success is not always in our control, but depends on factors such as luck, opportunity and circumstance. He concludes by saying that we can find more fulfillment and happiness by being true to our own talents and passions, rather than following the expectations and judgments of others.*
+
+&nbsp;
+
+**Gymnastics Analogy:**
+
+*The speaker, Alain de Botton, compares the modern society’s obsession with success and achievement to a gymnastics competition where everyone is judged by the same standards and criteria. He argues that this competition represents a narrow and rigid definition of success that is based on external rewards, recognition and comparison, and that it creates stress and insecurity for those who are not the best. He suggests that we should rethink our idea of success and create a more diverse and inclusive gymnastics show, where different kinds of skills and styles are appreciated and celebrated, such as grace, flexibility, originality and expression. He also urges us to be more empathetic towards ourselves and others when we make mistakes or face difficulties, and to recognize that success is not always in our hands, but depends on factors such as chance, opportunity and context. He concludes by saying that we can find more satisfaction and joy by being authentic to our own abilities and interests, rather than following the rules and opinions of others.*
+
+
+
+
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ## Things I want to know more about

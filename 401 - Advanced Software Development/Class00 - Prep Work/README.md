@@ -6,4 +6,6 @@
 
 ## [The Growth Mindset](./TheGrowthMindset.md)
 
-[]()
+## [Data Structures and Algorithms](./DataStructuresAndAlgorithms.md)
+
+## [Practice in the Terminal](./PracticeInTheTerminal.md)

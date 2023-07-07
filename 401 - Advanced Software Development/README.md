@@ -1,5 +1,7 @@
 # Table of Contents
 
+## [Code Challenge2](./Class02/CodeChallengeTwo.md)
+
 ## [PrepWork](./Class00%20-%20Prep%20Work/)
 
 ## [Class01](./Class01/README.md)

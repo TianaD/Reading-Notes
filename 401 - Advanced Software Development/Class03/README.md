@@ -2,9 +2,7 @@
 
 ## [**Read to a file**](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-read-and-write-to-a-newly-created-data-file)
 
-Sure, I can help you create notes from the content in the link you provided. 😊
-
-The link is an article from [Microsoft Learn](^3^) that shows how to read and write to a newly created data file for a .NET app. It uses the following classes and methods:
+Shows how to read and write to a newly created data file for a .NET app. It uses the following classes and methods:
 
 - **BinaryWriter** and **BinaryReader** are used for writing and reading data other than character strings. They can write and read primitive data types, decimal values, and strings.
 - **FileStream** is used to create a stream for a file, which can be read from or written to. It takes the file path, the file mode, and the file access as parameters.
@@ -19,8 +17,6 @@ The article also provides an example of how to use these classes and methods in 
 - To read data from the file, you can use the `Read` methods of the `BinaryReader` object, which return the data value as the specified type. You need to read the data in the same order as they were written.
 - To convert an array of bytes to a numeric value, you can use the `To` methods of the `BitConverter` class, which take the byte array and an optional start index as parameters.
 
-I hope these notes are helpful for you. If you have any questions or need more help, please let me know. 😊
-
 Source: Conversation with Bing, 7/10/2023
 
 (1) How to: Read and write to a newly created data file | Microsoft Learn. https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-read-and-write-to-a-newly-created-data-file.
@@ -31,7 +27,7 @@ Source: Conversation with Bing, 7/10/2023
 
 ## [**Write to a file**](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-write-text-to-a-file)
 
-The link is an article from [Microsoft Learn](^1^) that shows different ways to write text to a file for a .NET app. It uses the following classes and methods:
+Shows different ways to write text to a file for a .NET app. It uses the following classes and methods:
 
 - **StreamWriter** contains methods to write to a file synchronously (`Write` and `WriteLine`) or asynchronously (`WriteAsync` and `WriteLineAsync`).
 - **File** provides static methods to write text to a file such as `WriteAllLines` and `WriteAllText`, or to append text to a file such as `AppendAllLines`, `AppendAllText`, and `AppendText`.
@@ -44,8 +40,6 @@ The article also provides some examples of how to use these classes and methods 
 - To asynchronously write text to a new file, you can use an async method that returns a `Task`, and use a `StreamWriter` object with the `await` keyword and the `WriteAsync` or `WriteLineAsync` methods.
 - To write or append text with the `File` class, you can use the static methods such as `File.WriteAllText`, `File.AppendAllText`, or `File.AppendText`, which take the file path and the text as parameters.
 - To combine strings for building a file or directory path, you can use the static methods of the `Path` class such as `Path.Combine`, `Path.Join`, or `Path.TryJoin`, which take multiple strings as parameters.
-
-I hope these notes are helpful for you. If you have any questions or need more help, please let me know. 😊
 
 Source: Conversation with Bing, 7/10/2023
 
@@ -61,9 +55,7 @@ Source: Conversation with Bing, 7/10/2023
 
 ## [**File and Stream I/O**](https://learn.microsoft.com/en-us/dotnet/standard/io/)
 
-Sure, I can help you create notes from the content in the link you provided. 😊
-
-The link is an article from [Microsoft Learn](^1^) that shows how to read and write to a newly created data file for a .NET app. It uses the following classes and methods:
+Shows how to read and write to a newly created data file for a .NET app. It uses the following classes and methods:
 
 - **BinaryWriter** and **BinaryReader** are used for writing and reading data other than character strings. They can write and read primitive data types, decimal values, and strings¹.
 - **FileStream** is used to create a stream for a file, which can be read from or written to. It takes the file path, the file mode, and the file access as parameters¹.
@@ -77,8 +69,6 @@ The article also provides an example of how to use these classes and methods in 
 - To read data from the file, you can use a `FileStream` object with the `FileMode.Open` and `FileAccess.Read` parameters, and pass it to a `BinaryReader` object¹.
 - To read data from the file, you can use the `Read` methods of the `BinaryReader` object, which return the data value as the specified type. You need to read the data in the same order as they were written¹.
 - To convert an array of bytes to a numeric value, you can use the `To` methods of the `BitConverter` class, which take the byte array and an optional start index as parameters¹.
-
-I hope these notes are helpful for you. If you have any questions or need more help, please let me know. 😊
 
 Source: Conversation with Bing, 7/10/2023
 

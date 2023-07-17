@@ -3,15 +3,15 @@
 
 ## [Constructors (C# programming guide)](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes)
 
-    - Classes are the most common type of user-defined type in C#.
-    - A class is a blueprint for creating objects that have properties, methods, and events.
-    - A class can inherit from another class, implement one or more interfaces, and contain nested types.
-    - A class can have access modifiers that control its visibility and accessibility to other types.
-    - A class can have constructors that initialize its state and destructors that perform cleanup actions.
-    - A class can have fields that store data, properties that expose data, methods that perform actions, and events that notify other types of changes.
-    - A class can have static members that belong to the class itself and not to any instance of the class.
-    - A class can have operators that define how to perform arithmetic or logical operations on its instances.
-    - A class can have indexers that allow accessing its elements by using an index syntax.
+- Classes are the most common type of user-defined type in C#.
+- A class is a blueprint for creating objects that have properties, methods, and events.
+- A class can inherit from another class, implement one or more interfaces, and contain nested types.
+- A class can have access modifiers that control its visibility and accessibility to other types.
+- A class can have constructors that initialize its state and destructors that perform cleanup actions.
+- A class can have fields that store data, properties that expose data, methods that perform actions, and events that notify other types of changes.
+- A class can have static members that belong to the class itself and not to any instance of the class.
+- A class can have operators that define how to perform arithmetic or logical operations on its instances.
+- A class can have indexers that allow accessing its elements by using an index syntax.
 
 ## [Properties (C# Programming Guide)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties)
 
@@ -63,3 +63,17 @@ More explanation:
     - Generations, which are groups of objects based on their age and survival rate.
     - What happens during a garbage collection, which is when the garbage collector reclaims memory from unused objects.
     - Unmanaged resources, which are resources that are not managed by the garbage collector and need to be disposed manually.
+
+&nbsp;
+
+# Read: Linked Lists
+
+## [Big O: Analysis of Algorithm Efficiency](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
+
+## [Linked Lists](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
+
+## [What’s a Linked List, Anyway? [Part 1]](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+
+## [What’s a Linked List, Anyway? [Part 2]](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
+
+## Things I Want to Know More About

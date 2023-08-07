@@ -52,7 +52,6 @@
 - The link explains how to use the base keyword to access the base class members from the derived class.
 - The link demonstrates how to use constructors and initializers to set up the initial state of an object.
 
-
 ##### Notes generated with the help of ChatGPT
 
 ## Things I Want to Know More About
